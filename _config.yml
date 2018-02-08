@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Merange Musings"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Nicholas Merange"
+description              : "A collection of my thoughts, ideas, and opinions."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,19 +31,19 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message'] # ['name', 'email', 'url', 'message']
+  branch                 : "master" # "master"
+  commitMessage          : "New comment" # "New comment."
+  filename               : comment-{@timestamp} # comment-{@timestamp}
+  format                 : "yml" # "yml"
+  moderation             : true # true
+  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message'] # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5" # "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date" # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nicholas Merange"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "M. Development Studies student, curious about how the world works and my place in it."
+  location         : "Melbourne"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -250,6 +250,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
