@@ -120,7 +120,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - /docs # include Minimal Mistakes /docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -146,6 +145,7 @@ exclude:
   - README
   - tmp
   - /test # ignore Minimal Mistakes /test
+  - /docs # ignore Minimal Mistakes /docs
 keep_files:
   - .git
   - .svn
