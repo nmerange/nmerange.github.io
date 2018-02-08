@@ -1,3 +1,7 @@
+---
+permalink: /Welcome page/
+---
+
 ## Welcome to my Site!
 
 Hello!
