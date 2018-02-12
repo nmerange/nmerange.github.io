@@ -1,10 +1,9 @@
 ---
 tags:
-  - Stakeholder consultation
-  - Participation
-
+  - stakeholder consultation
+  - participation
 categories:
-  - Community and international Development
+  - community and international Development
  ---
 
 ## Doing Stakeholder consultation
