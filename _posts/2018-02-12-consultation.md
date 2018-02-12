@@ -3,7 +3,7 @@ tags:
   - stakeholder consultation
   - participation
 categories:
-  - community and international Development
+  - community and international development
  ---
 
 ## Doing Stakeholder consultation
