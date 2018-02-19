@@ -10,7 +10,7 @@ tags:
 
 When conducting a consultation, it is as important to note who _isn't_ in the room as who is. If someone who has an interesting or different perspective isn't present, then the person conducting that consultation will never get that perspective, unless they conduct a separate consultation. This is true for almost any complex social policy area in which you are seeking to hear diverse opinions about what the situation is from various perspectives
 
-#### The importance of Inclusion
+#### The Importance of Inclusion
 
 If people are engaged in the process of designing their own future, then they are more likely to work to ensure that the intervention is successful. It may fail, but it won't be because no-one is interested in seeing it work.
 
@@ -22,6 +22,7 @@ A challenge, though, is getting everyday community members to participate in the
 During different periods of consultation, you might use different strategies for interaction with community members.
 
 e.g. 
+
 Stage of Consultation | Strategy
 ---|---
 Asking for issues | Public forum, Leaflet drop, Complaint number (e.g. Ask residents to call in for common annoying problems they face)
