@@ -77,7 +77,7 @@ Crucial to this is defining the topic given.
 
 ## Evaluation Criteria
 
-### Priciples underlying Evaluation Criteria - What does good government seek to do?
+#### Priciples underlying Evaluation Criteria - What should good government seek to do?
 
 There are several aspects of Democratic decision-making that are considered valuable:
 - Effectiveness: Whether better public policy on the existing information available gets produced, however that's defined. e.g. Does it help us solve problems in the best way, deal with the biggest challenges facing us, and generally make excellent decisions?
@@ -105,7 +105,7 @@ This is to help evaluate the comparative advantage (and disadvantage) of the pro
 Protection from vote tampering and fraud - It should be noted that vote tampering never occurs in developed countries, but has been reported with decent frequency in developing countries
 
 Transparency
-  -
+  =
 
 
 
