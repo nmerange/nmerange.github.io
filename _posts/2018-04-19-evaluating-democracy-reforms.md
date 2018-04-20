@@ -91,15 +91,13 @@ There are several aspects of Democratic decision-making that are considered valu
 - Fairness
     - Each person gets one vote
     - Each person's vote is counted and given equal weight
-- Transparency:
-    - Reasoning Transparency - people can see why policy X was adopted
+- Transparency
+    - Reasoning transparency - people can see why policy X was adopted
     - Procedural transparency - people can in principle have access to the system process and see what happened at each stage (e.g. when did my representative vote on issue X and how did they vote)
 - Participation and Inclusion
     - I want to feel like my values, needs, interests or preferences can be appropriately considered
     - Each person has a chance to contribute to decision-making
     - Minorities aren't crushed, nor are they given inappropriate levels of power
-    
-Other considerations of important things include:
 - Security and privacy
     - Vote isn't interfered with 
     - Anonymity is assured
@@ -110,7 +108,7 @@ Other considerations of important things include:
 
 Based off these principles, and preceding discussions about creating criteria to determine the value of differing democracy interventions, a list of criteria were created to evaluate democracy reforms. Each intervention was rated out of 10 in each criterion, with a score of 5/10 given for existing Australian Democracy. Thus a score of 5 means that the reform scores about the same on that criterion as existing democracy, with 10 being 'a lot more' than Australian democracy, and 0 being a lot less.
 
-This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have.
+This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have. The ratings are rough and plausible, should make comparative sense.
 
 **Evaluation of Democracy Proposals**
 
@@ -123,10 +121,10 @@ Vulnerability to corruption|5|6|7|6|4
 Overall Security|5|6.5|6|3.5|6
 Will it crush minorities?|5|6|3|7.5|6
 Involvement of population in setting issues to be decided|5|3|8|8|3
-Everyone's perspective is included|5|6|5|7|3
+Everyone's perspective is included|5|6|5|7|1
 Transparency|5|5|4|6|4
 Works at a large scale|5|5|7|10|2
-Resources required to run|5|3|3|2|4
+Resources required to run|5|4|3|2|4
 
 Things to note:
 - Citizens' Juries have the biggest variation in scores - very effective decisions made, but lack scalability and representativeness
