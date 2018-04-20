@@ -106,16 +106,16 @@ Other considerations of important things include:
     - Not vulnerable to corruption
  
  
-#### List of Evaluation Criteria
+#### Evaluation
 
 Based off these principles, and preceding discussions about creating criteria to determine the value of differing democracy interventions, a list of criteria were created to evaluate democracy reforms. Each intervention was rated out of 10 in each criterion, with a score of 5/10 given for existing Australian Democracy. Thus a score of 5 means that the reform scores about the same on that criterion as existing democracy, with 10 being 'a lot more' than Australian democracy, and 0 being a lot less.
 
 This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have.
 
-
+.
 Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
 ---|---|---|---|---|---
-Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertian)|2 (I think it's very unlikely, only 20% confident|8(Effective already, highly (80%) confident)
+Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertain)|2 (I think it's very unlikely, only 20% confident|8(Effective already, highly (80%) confident)
 Responsive to crises?|5|4|6|7|2
 Protection from vote fraud and tampering|5|9|9|3|6
 Vulnerability to corruption|5|6|7|6|4
@@ -125,9 +125,27 @@ Involvement of population in setting issues to be decided|5|3|8|8|3
 Everyone's perspective is included|5|6|5|7|3
 Transparency|5|5|4|6|4
 Works at a large scale|5|5|7|10|2
-
+Resources required to run|5|3|3|2|4
 
 Things to note:
-Citizens' Juries have the biggest variation in scores - very effective, but lack scalability and representativeness
+- Citizens' Juries have the biggest variation in scores - very effective decisions made, but lack scalability and representativeness
+- High level of uncertainty on whether Flux and Mivote will get better decisions - Mivote at least unlikely to be worse than existing Democratic decision-making (I don't think existing decision-making is that bad, but policy frames mean that better approaches can be adopted. Only system that explicitly builds in policy and research feed-in)
+- Even though Flux and MiVote are well built to avoid vote tampering through use of blockchain, I don't know if they're both immune to corruption, firstly in the case of MiVote having a small group that set the questions/issues. Flux's tradable political tokens that can be saved with votes that can be delegated is potentially a recipe for vote-buying or bribing apathetic or greedy voters.
 
+Major difference I see between Flux and Mivote based off this analysis is that Mivote is a "safer bet" for better and more integrated policy than Flux, whereas Flux is better for getting people what they feel is important to them and their needs represented, at the cost of policy coherence.
 
+#### What to do with this information?
+
+This was an interesting exercise, but what are we to do with this analysis? The first thought that comes to mind is to determine the relative strengths, but what if we were to be interested in investing philanthropic money in this space?
+
+If someone were interested, this would be the key questions you'd need to answer:
+- What key uncertainties about the reform we could resolve through experimentation
+- Which reform looks most promising overall? e.g. What could have the most positive impact if implemented well?
+- What projects are ready to begin right now?
+    - How much would they cost?
+- What existing information do we have about what these projects have done already?
+- What are the social costs of failure? 
+
+Such a project could be funded based on a need for systemic change, or could be simulated via a game. Democracy 3 is a game that alreasy attempts to show the influence of decisions on social impacts, so it could be based on that idea, but with a different voting system.
+
+Overall, there is a lack of academic rigour applied to effectively assess these interventions, so, of course, good research and structured exploration and experimentation across these interventions could help resolve some of these uncertainties, most importantly to limit the possibility that the system would contribute to catastrophic risks. 
