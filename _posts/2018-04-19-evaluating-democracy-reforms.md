@@ -13,11 +13,11 @@ tags:
   - systemic change
 ---
 
-There are several promising democracy reforms being considered at the moment, some based on technology while some are not. This is not a comprehensive list, but rather an overview of the most significant efforts I'm aware of after being exposed to several as part of [Designing Open Democracy](www.designingopendemocracy.com). The descriptions, evaluations and summaries here are rough and open to further revision, readers are encouraged to provide suggestions as to what things should be included and excluded in the following summaries or how I might consider adjusting my evaluation and why. 
+There are several promising democracy reforms being developed at the moment, some based on technology while some are not. This is not a comprehensive list, but rather an overview of the most significant efforts I'm aware of after being exposed to several as part of [Designing Open Democracy](www.designingopendemocracy.com). The descriptions, evaluations and summaries here are rough and open to further revision, readers are encouraged to provide suggestions as to what things should be included and excluded in the following summaries or how I might consider adjusting my evaluations and why. 
 
 The primary goal here is to provide a rough evaluation of these interventions, their relative strengths and weaknesses in comparison to each other and our existing democracy according to certain criteria of what we're after in a good democratic system. The following comprises a list of interventions I'll be considering here.
 
-### Interventions Being Considered
+### Democracy Reforms Being Considered
 **Tech-based reforms:**
 * [Mivote](https://www.mivote.org.au/what_is)
 * [Flux](https://voteflux.org/)
@@ -82,7 +82,9 @@ Any evaluation of the merits of democracy reform has to be based on what we see 
 #### Priciples underlying Evaluation Criteria - What should good government seek to do?
 
 There are several aspects of Democratic decision-making that are considered valuable:
-- Effectiveness: Whether better public policy on the existing information available gets produced, however that's defined. e.g. Does it help us solve problems in the best way, deal with the biggest challenges facing us, and generally make excellent decisions?
+- Effectiveness
+    - Will we get better decisions? (Whether better public policy on the existing information available gets produced, however that's defined. e.g. Does it help us solve problems in the best way, deal with the biggest challenges facing us, and generally make excellent decisions?
+    - How well will it respond to crises?
 - Freedom 
     - To decide who to vote for or the policy involved
     - To decide what issues matter
@@ -99,7 +101,7 @@ There are several aspects of Democratic decision-making that are considered valu
     
 Other considerations of important things include:
 - Security and privacy
-    - Vote isn't interfered with, 
+    - Vote isn't interfered with 
     - Anonymity is assured
     - Not vulnerable to corruption
  
