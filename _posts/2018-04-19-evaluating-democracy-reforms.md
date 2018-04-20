@@ -37,7 +37,7 @@ In principle, any intervention could be assessed using the following criteria. H
 
 ### Summary of Interventions Being Considered
 
-#### [**Mivote**](https://www.mivote.org.au/what_is)
+#### [Mivote](https://www.mivote.org.au/what_is)
 
 Issue-Based information aggregation and informed voting software
 
@@ -46,7 +46,7 @@ How does it work?
 * Presents information on a topic, say, housing, along with different frameworks for understanding the topic
 * After noting that the person has read some info on the topic (the 'information pack' provided), it gives at least 4 different 'policy approaches' to an issue that could plausibly be taken, person voting picks one
 
-#### [**Flux**](https://voteflux.org/about/how/)
+#### [Flux](https://voteflux.org/about/how/)
 
 Issue-Based Liquid Democracy with tweaks
 
@@ -56,7 +56,7 @@ How does it work?
 * Can choose to not vote, and instead gain political capital that can be spent later on future votes (How much political capital can be saved, whether it becomes less valuable, and if so over what period is something unresolved right now as far as I can tell)
 * Plan to implement a system for bidding for political capital, where suppply/demand of political capital on a particular vote determines the value of each political capital - the more people are bidding for tokens, the lower the value of each token used, and the higher value given for saving tokens
 
-#### [**Online Direct Democracy**](https://www.onlinedirectdemocracy.org/how-the-party-works/)
+#### [Online Direct Democracy](https://www.onlinedirectdemocracy.org/how-the-party-works/)
 
 Direct Democracy
 
