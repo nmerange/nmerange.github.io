@@ -112,7 +112,7 @@ Based off these principles, and preceding discussions about creating criteria to
 
 This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have.
 
-.
+**Evaluation of Democracy Proposals**
 Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
 ---|---|---|---|---|---
 Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertain)|2 (I think it's very unlikely, only 20% confident|8(Effective already, highly (80%) confident)
