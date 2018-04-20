@@ -110,7 +110,7 @@ Other considerations of important things include:
 
 Based off these principles, and preceding discussions about creating criteria to determine the value of differing democracy interventions, a list of criteria were created to evaluate democracy reforms. Each intervention was rated out of 10 in each criterion, with a score of 5/10 given for existing Australian Democracy. Thus a score of 5 means that the reform scores about the same on that criterion as existing democracy, with 10 being 'a lot more' than Australian democracy, and 0 being a lot less.
 
-This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have. 
+This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have.
 
 
 Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
@@ -127,5 +127,7 @@ Transparency|5|5|4|6|4
 Works at a large scale|5|5|7|10|2
 
 
+Things to note:
+Citizens' Juries have the biggest variation in scores - very effective, but lack scalability and representativeness
 
 
