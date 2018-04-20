@@ -66,7 +66,7 @@ Direct Democracy
 * Initial bills can be agreed on in principle, then worked out further later on
 * Pros and cons of each bill can be given 
 
-#### [Citizens' Juries](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury)
+#### [Citizens Juries](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury)
 
 According to [NewDemocracy](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury), "a Citizens’ Jury is a group of randomly selected members of a community convened to consider a given topic and provide a response or recommendation to the governing body".
 
