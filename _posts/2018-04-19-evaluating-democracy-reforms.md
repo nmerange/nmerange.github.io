@@ -81,26 +81,26 @@ Any evaluation of the merits of democracy reform has to be based on what we see 
 #### Priciples underlying Evaluation Criteria - What should good government seek to do?
 
 There are several aspects of Democratic decision-making that are considered valuable:
-- Effectiveness
-    - Will we get better decisions? (Whether better public policy on the existing information available gets produced, however that's defined. e.g. Does it help us solve problems in the best way, deal with the biggest challenges facing us, and generally make excellent decisions?
-    - How well will it respond to crises?
-- Freedom 
-    - To decide who to vote for or the policy involved
-    - To decide what issues matter
-- Fairness
-    - Each person gets one vote
-    - Each person's vote is counted and given equal weight
-- Transparency
-    - Reasoning transparency - people can see why policy X was adopted
-    - Procedural transparency - people can in principle have access to the system process and see what happened at each stage (e.g. when did my representative vote on issue X and how did they vote)
-- Participation and Inclusion
-    - I want to feel like my values, needs, interests or preferences can be appropriately considered
+* Effectiveness
+    * Will we get better decisions? (Whether better public policy on the existing information available gets produced, however that's defined. e.g. Does it help us solve problems in the best way, deal with the biggest challenges facing us, and generally make excellent decisions?
+    * How well will it respond to crises?
+* Freedom 
+    * To decide who to vote for or the policy involved
+    * To decide what issues matter
+* Fairness
+    * Each person gets one vote
+    * Each person's vote is counted and given equal weight
+* Transparency
+    * Reasoning transparency - people can see why policy X was adopted
+    * Procedural transparency - people can in principle have access to the system process and see what happened at each stage (e.g. when did my representative vote on issue X and how did they vote)
+* Participation and Inclusion
+    * I want to feel like my values, needs, interests or preferences can be appropriately considered
     - Each person has a chance to contribute to decision-making
     - Minorities aren't crushed, nor are they given inappropriate levels of power
-- Security and privacy
-    - Vote isn't interfered with 
-    - Anonymity is assured
-    - Not vulnerable to corruption
+* Security and privacy
+    * Vote isn't interfered with 
+    * Anonymity is assured
+    * Not vulnerable to corruption
  
 #### Evaluation
 
@@ -125,9 +125,9 @@ Works at a large scale|5|5|7|10|2
 Resources required to run|5|4|3|2|4
 
 Things to note:
-- Citizens' Juries have the biggest variation in scores - very effective decisions made, but lack scalability and representativeness
-- High level of uncertainty on whether Flux and Mivote will get better decisions - Mivote at least unlikely to be worse than existing Democratic decision-making (I don't think existing decision-making is that bad, but policy frames mean that better approaches can be adopted. Only system that explicitly builds in policy and research feed-in)
-- Even though Flux and MiVote are well built to avoid vote tampering through use of blockchain, I don't know if they're both immune to corruption, firstly in the case of MiVote having a small group that set the questions/issues. Flux's tradable political tokens that can be saved with votes that can be delegated is potentially a recipe for vote-buying or bribing apathetic or greedy voters.
+* Citizens' Juries have the biggest variation in scores - very effective decisions made, but lack scalability and representativeness
+* High level of uncertainty on whether Flux and Mivote will get better decisions - Mivote at least unlikely to be worse than existing Democratic decision-making (I don't think existing decision-making is that bad, but policy frames mean that better approaches can be adopted. Only system that explicitly builds in policy and research feed-in)
+* Even though Flux and MiVote are well built to avoid vote tampering through use of blockchain, I don't know if they're both immune to corruption, firstly in the case of MiVote having a small group that set the questions/issues. Flux's tradable political tokens that can be saved with votes that can be delegated is potentially a recipe for vote-buying or bribing apathetic or greedy voters.
 
 Major difference I see between Flux and Mivote based off this analysis is that Mivote is a "safer bet" for better and more integrated policy than Flux, whereas Flux is better for getting people what they feel is important to them and their needs represented, at the cost of policy coherence.
 
@@ -136,12 +136,12 @@ Major difference I see between Flux and Mivote based off this analysis is that M
 This was an interesting exercise, but what are we to do with this analysis? The first thought that comes to mind is to determine the relative strengths, but what if we were to be interested in investing philanthropic money in this space?
 
 If someone were interested, this would be the key questions you'd need to answer:
-- What key uncertainties about the reform we could resolve through experimentation
-- Which reform looks most promising overall? e.g. What could have the most positive impact if implemented well?
-- What projects are ready to begin right now?
-    - How much would they cost?
-- What existing information do we have about what these projects have done already?
-- What are the social costs of failure? 
+* What key uncertainties about the reform we could resolve through experimentation
+* Which reform looks most promising overall? e.g. What could have the most positive impact if implemented well?
+* What projects are ready to begin right now?
+    * How much would they cost?
+* What existing information do we have about what these projects have done already?
+* What are the social costs of failure? 
 
 Such a project could be funded based on a need for systemic change, or could be simulated via a game. Democracy 3 is a game that alreasy attempts to show the influence of decisions on social impacts, so it could be based on that idea, but with a different voting system.
 
