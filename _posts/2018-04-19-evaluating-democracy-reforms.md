@@ -115,7 +115,7 @@ This is to help evaluate the comparative advantage (and disadvantage) of the pro
 
 Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
 ---|---|---|---|---|---
-Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertian)|2 (I think it's very unlikely, only 20% confident|80% (Effective already, highly confident)
+Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertian)|2 (I think it's very unlikely, only 20% confident|8(Effective already, highly (80%) confident)
 Responsive to crises?|5|4|6|7|2
 Protection from vote fraud and tampering|5|9|9|3|6
 Vulnerability to corruption|5|6|7|6|4
