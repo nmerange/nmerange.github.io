@@ -113,14 +113,19 @@ Based off these principles, and preceding discussions about creating criteria to
 This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have. 
 
 
-Protection from vote tampering and fraud - It should be noted that vote tampering never occurs in developed countries, but has been reported with decent frequency in developing countries
+Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
+---|---|---|---|---|---
+Will we get get better decisions?|5|6.5 (Probably, 65% confident)|5 (Highly uncertian)|2 (I think it's very unlikely, only 20% confident|80% (Effective already, highly confident)
+Responsive to crises?|5|4|6|7|2
+Protection from vote fraud and tampering|5|9|9|3|6
+Vulnerability to corruption|5|6|7|6|4
+Overall Security|5|6.5|6|3.5|6
+Will it crush minorities?|5|6|3|7.5|6
+Involvement of population in setting issues to be decided|5|3|8|8|3
+Everyone's perspective is included|5|6|5|7|3
+Transparency|5|5|4|6|4
+Works at a large scale|5|5|7|10|2
 
-Transparency
 
-
-
-
-
-Who Makes Decisions:
 
 
