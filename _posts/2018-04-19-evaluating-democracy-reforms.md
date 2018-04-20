@@ -74,7 +74,6 @@ Normally, there is a power to call expert witnesses for testimony, engage in gro
 
 Crucial to this is defining the topic given.
 
-
 ## Evaluating Democracy Reform Proposals
 
 Any evaluation of the merits of democracy reform has to be based on what we see as valuable in democracy itself. Without getting into deep philosophical discussion of this here, I will put forth the major principles I think most people would see as valuable and important for democratic decision-making.
@@ -102,7 +101,6 @@ There are several aspects of Democratic decision-making that are considered valu
     - Vote isn't interfered with 
     - Anonymity is assured
     - Not vulnerable to corruption
- 
  
 #### Evaluation
 
