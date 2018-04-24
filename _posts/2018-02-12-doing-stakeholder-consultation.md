@@ -1,6 +1,5 @@
 ---
-title:
-  - Doing Stakeholder Consultation 
+title: "Doing Stakeholder Consultation"
 categories:
   - Community and International Development
 tags:
