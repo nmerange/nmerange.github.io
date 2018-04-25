@@ -1,6 +1,5 @@
 ---
-title: 
-  - Evaluating Democracy Reforms
+title: "Evaluating Democracy Reforms"
 categories:
   - Politics
   - Evaluation
