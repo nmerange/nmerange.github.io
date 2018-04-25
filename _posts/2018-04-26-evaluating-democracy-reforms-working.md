@@ -137,7 +137,7 @@ If someone were interested, this would be the key questions you'd need to answer
 * What projects are ready to begin right now?
     * How much would they cost?
 * What existing information do we have about what these projects have done already?
-* What are the social costs of failure? 
+* What are the social costs of failure of each? Which one will allow us to either experiment with a low cost of failure, or with an easy possibility to revert to a previous system?  
 
 Such a project could be funded based on a need for systemic change, or could be simulated via a game. Democracy 3 is a game that alreasy attempts to show the influence of decisions on social impacts, so it could be based on that idea, but with a different voting system.
 
