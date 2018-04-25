@@ -17,15 +17,15 @@ There are several promising democracy reforms being developed at the moment, som
 The primary goal here is to provide a rough evaluation of these interventions, their relative strengths and weaknesses in comparison to each other and our existing democracy according to certain criteria of what we're after in a good democratic system. The following comprises a list of interventions I'll be considering here.
 
 ### Democracy Reforms Being Considered
-**Tech-based reforms:**
+#### Tech-based reforms:
 * [Mivote](https://www.mivote.org.au/what_is)
 * [Flux](https://voteflux.org/)
 * [Online Direct Democracy](https://www.onlinedirectdemocracy.org/)
 
-**Non-Tech Based reforms:**
+#### Non-Tech Based reforms:
 * [Citizens' Juries](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury)
 
-**Other reforms not being considered:**
+#### Other reforms not being considered:
 * Voting Machines
 * Discussion platforms, such as kialo, argumen, polity, pol.is, etc.
 * GILT/Prediki's Proposal for a citizen parliament plus some sort of prediction-making ranking system to see who is providing accurate predictions of what's going on to sort information. This isn't being included due to the lack of familiarity with the system
@@ -36,18 +36,16 @@ In principle, any intervention could be assessed using the following criteria. H
 
 ### Summary of Interventions Being Considered
 
-#### [Mivote](https://www.mivote.org.au/what_is)
-
-Issue-Based information aggregation and informed voting software
+[**Mivote**](https://www.mivote.org.au/what_is)  
+_Issue-Based information aggregation and informed voting_
 
 How does it work?
 * Via app, person opts in/opts out of question being discussed
 * Presents information on a topic, say, housing, along with different frameworks for understanding the topic
 * After noting that the person has read some info on the topic (the 'information pack' provided), it gives at least 4 different 'policy approaches' to an issue that could plausibly be taken, person voting picks one
 
-#### [Flux](https://voteflux.org/about/how/)
-
-Issue-Based Liquid Democracy with tweaks
+[**Flux**](https://voteflux.org/about/how/)  
+_Issue-Based Liquid Democracy with tweaks_
 
 How does it work?
 * Each bill in parliament is given a chance to be voted on (In future, it is likely to be possible for people to create the own bills, with votes available for each of those)
@@ -55,9 +53,8 @@ How does it work?
 * Can choose to not vote, and instead gain political capital that can be spent later on future votes (How much political capital can be saved, whether it becomes less valuable, and if so over what period is something unresolved right now as far as I can tell)
 * Plan to implement a system for bidding for political capital, where suppply/demand of political capital on a particular vote determines the value of each political capital - the more people are bidding for tokens, the lower the value of each token used, and the higher value given for saving tokens
 
-#### [Online Direct Democracy](https://www.onlinedirectdemocracy.org/how-the-party-works/)
-
-Direct Democracy
+[**Online Direct Democracy**](https://www.onlinedirectdemocracy.org/how-the-party-works/)  
+_Direct Democracy_
 
 * Each bill is voted on, for/against
 * People able to propose their own bills, which are in turn voted on
@@ -65,7 +62,7 @@ Direct Democracy
 * Initial bills can be agreed on in principle, then worked out further later on
 * Pros and cons of each bill can be given 
 
-#### [Citizens Juries](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury)
+[**Citizens' Juries**](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury)
 
 According to [NewDemocracy](https://www.newdemocracy.com.au/library/what-is-a-citizens-jury), "a Citizens’ Jury is a group of randomly selected members of a community convened to consider a given topic and provide a response or recommendation to the governing body".
 
@@ -77,7 +74,7 @@ Crucial to this is defining the topic given.
 
 Any evaluation of the merits of democracy reform has to be based on what we see as valuable in democracy itself. Without getting into deep philosophical discussion of this here, I will put forth the major principles I think most people would see as valuable and important for democratic decision-making.
 
-#### Priciples underlying Evaluation Criteria - What should good government seek to do?
+### Priciples underlying Evaluation Criteria - What should good government seek to do?
 
 There are several aspects of Democratic decision-making that are considered valuable:
 * Effectiveness
@@ -101,13 +98,13 @@ There are several aspects of Democratic decision-making that are considered valu
     * Anonymity is assured
     * Not vulnerable to corruption
  
-#### Evaluation
+### Evaluation
 
 Based off these principles, and preceding discussions about creating criteria to determine the value of differing democracy interventions, a list of criteria were created to evaluate democracy reforms. Each intervention was rated out of 10 in each criterion, with a score of 5/10 given for existing Australian Democracy. Thus a score of 5 means that the reform scores about the same on that criterion as existing democracy, with 10 being 'a lot more' than Australian democracy, and 0 being a lot less.
 
 This is to help evaluate the comparative advantage (and disadvantage) of the proposals relative to some reference point that made sense to people. No reform has to be perfect, it just has to be better than what we have. The ratings are rough and plausible, should make comparative sense.
 
-**Evaluation of Democracy Proposals**
+#### Evaluation of Democracy Proposals
 
 Criteria|Existing Democracy (Australia)|Mivote|Flux|Online Direct Democracy|Citizens' Juries
 ---|---|---|---|---|---
@@ -121,16 +118,16 @@ Involvement of population in setting issues to be decided|5|3|8|8|3
 Everyone's perspective is included|5|6|5|7|1
 Transparency|5|5|4|6|4
 Works at a large scale|5|5|7|10|2
-Resources required to run|5|4|3|2|4
+Resources required to run (Expensive?)|5|4|3|2|4
 
-Things to note:
+Things to note:x
 * Citizens' Juries have the biggest variation in scores - very effective decisions made, but lack scalability and representativeness
 * High level of uncertainty on whether Flux and Mivote will get better decisions - Mivote at least unlikely to be worse than existing Democratic decision-making (I don't think existing decision-making is that bad, but policy frames mean that better approaches can be adopted. Only system that explicitly builds in policy and research feed-in)
 * Even though Flux and MiVote are well built to avoid vote tampering through use of blockchain, I don't know if they're both immune to corruption, firstly in the case of MiVote having a small group that set the questions/issues. Flux's tradable political tokens that can be saved with votes that can be delegated is potentially a recipe for vote-buying or bribing apathetic or greedy voters.
 
 Major difference I see between Flux and Mivote based off this analysis is that Mivote is a "safer bet" for better and more integrated policy than Flux, whereas Flux is better for getting people what they feel is important to them and their needs represented, at the cost of policy coherence.
 
-#### What to do with this information?
+### What to do with this information?
 
 This was an interesting exercise, but what are we to do with this analysis? The first thought that comes to mind is to determine the relative strengths, but what if we were to be interested in investing philanthropic money in this space?
 
