@@ -10,7 +10,7 @@ tags:
   - analysis
   - 2017
   - short
- ---
+---
   
 My understanding of the current international economic environment is that low levels of economic growth are expected in the developed world for the next decade, along with continued large opportunities and risks for employment with the constant emergence of disruptive technologies. This is changing the way products are produced, marketed, and distributed, not to mention business models themselves and chances for future stable employment. 
   
