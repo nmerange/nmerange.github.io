@@ -1,5 +1,5 @@
 ---
-title: " My 2017 Anyalysis on the next decade in economics"
+title: " My 2017 Analysis on the next decade in economics"
 categories:
   - Economics
   - 2017
