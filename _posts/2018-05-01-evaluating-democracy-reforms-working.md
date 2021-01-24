@@ -1,5 +1,6 @@
 ---
 title: "Evaluating Democracy Reforms"
+toc: true
 categories:
   - Politics
   - Evaluation
@@ -11,6 +12,7 @@ tags:
   - evaluation
   - systemic change
 ---
+
 
 There are several promising democracy reforms being developed at the moment, some based on technology while some are not. This is not a comprehensive list, but rather an overview of the most significant efforts I'm aware of after being exposed to several as part of [Designing Open Democracy](www.designingopendemocracy.com). The descriptions, evaluations and summaries here are rough and open to further revision, readers are encouraged to provide suggestions as to what things should be included and excluded in the following summaries or how I might consider adjusting my evaluations and why. 
 
