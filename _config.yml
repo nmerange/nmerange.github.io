@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Merange Musings"
+title                    : "Food for Thought"
 title_separator          : "-"
 name                     : "Nicholas Merange"
-description              : "A collection of my thoughts, ideas, and opinions."
-url                      : "https://nmerange.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A collection of my thoughts, feelings, and opinions."
+url                      : "https://nmerange.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : nmerange/nmerange.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Merange"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "M. Development Studies graduate, curious about how the world works and my place in it."
+  avatar           : /assets/images/delicious dinner.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Thinker and Writer of thoughts. Exploring emotions. Feelings. Artsy but afraid to admit it. Stereotypical tortured creative"
   location         : "Melbourne"
   email            : "nmerange@hotmail.com"
   uri              :
