@@ -1,11 +1,12 @@
 ---
 tags: reflection, feelings
-Category: self-reflection
+categories: personal, feelings
 ---
 
 
 ## Genuine Emotional Connection
 
+(Originally written on 14/2/2020 - Valentines Day 2020)
 
 A genuine emotional connection is not developed or cannot be based solely (or even mainly) on acts of reciprocity and thanks, and it's not a good test for whether you really care for someone, especially if you are a "dutiful" person (as I believe I am).
 
