@@ -4,7 +4,7 @@ categories: personal, feelings
 ---
 
 
-## Genuine Emotional Connection
+### Genuine Emotional Connection
 
 (Originally written on 14/2/2020 - Valentines Day 2020)
 
