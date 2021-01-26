@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Merange"
-  avatar           : "/assets/images/Delicious_dinner.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Nick-Self-Portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Thinker and Writer of thoughts. Exploring emotions. Feelings. Artsy but afraid to admit it. Stereotypical tortured creative"
   location         : "Melbourne"
   email            : "nmerange@hotmail.com"
