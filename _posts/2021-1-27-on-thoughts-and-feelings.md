@@ -10,4 +10,4 @@ Another side of this, though, which seems obvious but sometimes gets lost, is th
 
 Adding these to the model, though, gives us some more interesting interactions between these mental processes, and might help understand how we might get so confused, overwhelmed, and reactive.
 
-![Thought analyysis table]({{ site.url }}{{ site.baseurl }}/assets/images/Thought-and-feeling analysis.png){: .align-center}
+![Thought analysis table]({{ site.url }}{{ site.baseurl }}/assets/images/Thought-and-feeling-analysis.png){: .align-center}
