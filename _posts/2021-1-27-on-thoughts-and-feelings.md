@@ -4,9 +4,9 @@ categories: philosophy, psychology
 ---
 
 
-When we think of Mental Processes, we might start to look at an obvious place:
+When we think of Mental Processes, we might start to look at an obvious place:\
+That is, Cognition (Thinking)
 
-That is, Cognition (Thinking)\
 And then, naturally, it seems the next step would be:\
 Meta Cognition (Thinking about thinking), and so on.
 
