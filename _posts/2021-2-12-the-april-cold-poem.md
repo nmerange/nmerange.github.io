@@ -4,7 +4,11 @@ Category: Poetry
 Tags: poetry
 ---
 
-Feeling stresssed and overshwelmed in my brain\
+_(originally written April 12, 2020)_
+
+
+
+Feeling stresssed and overwhelmed in my brain\
 Hoping that sanity will remain\
 We must all stay still to stop this curse\
 To avoid the bad from getting worse
@@ -33,3 +37,5 @@ I think this will lead to trouble down t'track\
 One housemate doesn't want heat, so will want money back\
 Yet I turn it on, situation's now resolved\
 The heater's on, and I'm no longer cold
+
+
