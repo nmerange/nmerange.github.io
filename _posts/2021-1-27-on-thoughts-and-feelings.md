@@ -1,5 +1,8 @@
 ---
-tags: philosophy, psychology, conceptual models
+tags: 
+  - philosophy
+  - psychology
+  - conceptual models
 categories: philosophy, psychology
 ---
 
@@ -18,7 +21,7 @@ Adding these to the basic model of mental processes gives us maybe some more int
 
 See below:
 
-![Thought analysis table]({{ site.url }}{{ site.baseurl }}/assets/images/Thought-and-feeling-analysis.png){: .align-center}
+![Thought analysis table]({{ site.url }}{{ site.baseurl }}/assets/images/Thought-and-feeling-analysis-update.png){: .align-center}
 
 We can see from the above table that we don't really have a word for our "feelings about our feelings". I propose "meta-sentimentality". It's probably already been coined, since it's an obvious equivalent to "meta-cognition."
 
