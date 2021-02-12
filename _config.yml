@@ -23,6 +23,10 @@ collections: #Set up for tags
   presentations:
     output: true
     permalink: /presentations/:name
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/  
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
