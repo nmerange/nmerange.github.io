@@ -1,6 +1,9 @@
 ---
 title: The Lemon - Powerpoint and News Ticker
-tags: comedy, humour
+tags: 
+ - comedy
+ - humour
+Categories: comedy
 ---
 Below is a link to a powerpoint presentation I was playing with to create amusing ticker-style news headlines.
 
