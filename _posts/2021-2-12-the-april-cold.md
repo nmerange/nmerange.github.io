@@ -1,7 +1,8 @@
 ---
-Title: The April Cold
-Category: Poetry
-Tags: poetry
+Category: 
+ - Poetry
+Tags: 
+ - poetry
 ---
 
 _(originally written April 12, 2020)_
