@@ -3,7 +3,9 @@ tags:
   - philosophy
   - psychology
   - conceptual models
-categories: philosophy, psychology
+categories: 
+  - philosophy
+  - psychology
 ---
 
 
