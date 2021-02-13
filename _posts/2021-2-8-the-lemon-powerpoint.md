@@ -1,5 +1,7 @@
 ---
 title: The Lemon - Powerpoint and News Ticker
+header:
+  overlay_image: /assets/images/A-lemon-for-The-lemon.png
 tags: 
  - comedy
  - humour
