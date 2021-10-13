@@ -19,6 +19,7 @@ Then, in the beginning of spring, out of nowhere, the leaves grew again. However
 
 What I took from this is that the rose bushes show that when the conditions improve, we can flourish again if we can survive the hard times. In fact, survival may be its the best thing we can do to ensure our long term flourishing - so hang in there.
 
-
-
-![The Rose Bushes in full leaf]({{ site.url }}{{ site.baseurl }}/assets/images/The-Rose-Bushes.jpg){: .align-center}
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/The-Rose-Bushes.jpg" alt="">
+  <figcaption>The Rose Bushes in Full leaf!</figcaption>
+</figure>
