@@ -21,5 +21,5 @@ What I took from this is that the rose bushes show that when the conditions impr
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/The-Rose-Bushes.jpg" alt="">
-  <figcaption>The Rose Bushes in Full leaf!</figcaption>
+  <figcaption>The Rose Bushes in Full leaf</figcaption>
 </figure>
