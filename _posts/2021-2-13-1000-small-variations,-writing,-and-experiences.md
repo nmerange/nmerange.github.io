@@ -35,19 +35,25 @@ We sometimes need to look for the small differences. Each day I am a little diff
 
 ### On Writing
 
-Yet if I write, I am not experiencing (I am _doing_)\
-If I am genuinely experiencing, I am not writing.\
-Therefore, writing is a projection, memory, or an ideal in the mind's eye.\
-It is not the experience itself
+Yet if I write, I am not experiencing the thing in that time. Yet I may be reliving it \ 
+If I am genuinely experiencing, I am likely not writing. (I am _doing_ and _being_)\ 
+Therefore, writing is usually a projection, memory, or an ideal in the mind's eye.\
+And not the experience itself
 
-IF I write in public, I may be in part engaging in a process of self-discovery and "being-in-the-world", yet I am also a bit detached from the world. I am also partially engging in a performance as _The Poet_, which has "romantic" connotations. 
+If I write in public, I feel like I am being myself\
+This is because I _am_ a writer. And I write abo stuff that strikes me.\
+I am engaging in a process of self-discovery, of _world_-discovery - for the moment itself I had a huge bunch of thoughts, feelings and experiences that could not be encapsulated without time and processing\
+I am "being-in-the-world"\
+I have seen it before as detachment from the world.\
+I am am aware that for some, I am playing the role of _The Poet_, the bohemian.\
+Yet it is not because I want to be seen like that - but because it is who I am, and it shows a side of me that is personal yet the others don't know what is being written.
+I like tht sense of mystery\/
 
-We are like quantum states.\
-When observed, we change, conforming, _collapsing_ into one form of being or another.\
+When observed, we can be tempted to change, conforming, _collapsing_ into one form of being or another.\
 The consciousness who observes the world is conscious of the consciousness of me.\
-I, too, am aware of their attention
+I, too, am aware of their attention\
+But I am not captured by their attnetion
 
-Our consciousness tries to make sense of the world, makes it meet our expectations, to some extent, yet the illusion only stretches so far. Even if we are aware, we never know how far away we are from "reality". This is not a bad thing, we need consciousness to fix problems in our lives, to create magnificent and mundane thoughts, relationships and decisions.
-
+Writing is a physical act. It is more concrete than thinking or reflection without that action. It's a practical way to encounter and process experiences\
 Our bodies are just as important, alive beings, pulsing systems of movement within us.\
 I can say that _**I**_ would not be here without it.
