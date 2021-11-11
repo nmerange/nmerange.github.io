@@ -15,8 +15,8 @@ It was so bad that it looks like the roses were just stalks with thorns. I thoug
 
 I had thought that it would be a shame, but the best thing to do would be probably rip these roses out and plant something else that might have better luck. It was sad to look at the bare and thorny branches with no leaves. Neither did any new stalks seem to grow.
 
-Then, in the beginning of spring, out of nowhere, the leaves grew again. However, this time something was different. The leaves grew in such number and all across the bushes. The possums still ate one or two, but there were so many leaves that it seemed the possums could no longer ravage them.
+Then, in the beginning of spring, out of nowhere, the leaves grew again. However, this time something was different. The leaves grew in such number and all across the bushes. The possums still ate one or two, but there were so many leaves that it seemed the possums could no longer ravage them. Now there have been even a few roses bloom.
 
-What I took from this is that the rose bushes show that when the conditions improve, we can flourish again if we can survive the hard times. In fact, survival may be its the best thing we can do to ensure our long term flourishing - so hang in there.
+What I took from this is that just like the rose bushes, we can flourish again if we can survive the hard times. In fact, survival may be its the best thing we can do to ensure our long term flourishing - so hang in there.
 
-![The Rose Bushes in Full leaf]({{ site.url }}{{ site.baseurl }}/assets/images/The-Rose-Bushes.jpg){: .align-center} _The rose bushes in full leaf!_
+![The Rose Bushes in Full leaf]({{ site.url }}{{ site.baseurl }}/assets/images/The-Rose-bush-in-bloom.jpg){: .align-center} _The rose bushes in bloom!_
