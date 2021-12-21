@@ -17,11 +17,11 @@ One tin of lentils, drained (400g)\
 1 medium or large broccoli, cut into florets (approx 200g)\
 2 Tbsp Olive oil
 
---Optional but recommended--\
+Optional but recommended\
 Soy sauce (2 tsp)\
 Cous Cous (1/2 cup)
 
---Extra possible spices I add--\
+Extra possible spices I add\
 Cumin (1 tsp)\
 Coriander (2 tsp)\
 Turmeric (1tsp)\
@@ -29,7 +29,7 @@ Chives (2 tsp)\
 Ginger (1tsp)\
 Paprika (smoked or otherwise) (1tsp)\
 
-=Method=\
+#### Method
 Coconut curry (serves 4)\
 	1. Dice the mushrooms peel and cut the carrots into strips\
 	2. Put oil in a wok or large saucepan, heat to medium high for one minute\
