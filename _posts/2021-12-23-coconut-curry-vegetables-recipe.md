@@ -19,7 +19,7 @@ One tin of lentils, drained (400g)\
 
 Optional but recommended\
 Soy sauce (2 tsp)\
-Cous Cous (1/2 cup)
+Cous Cous ($\frac{1}{2}$cup)
 
 Extra possible spices I add\
 Cumin (1 tsp)\
@@ -42,8 +42,8 @@ Coconut curry (serves 4)\
 
 
 Cous cous (serves one - scale up proportionally if there are more people, but if cooking for one its better to make a small amount each night than one large batch as it doesn't reheat well)\
-	1. boil 1/2 cup of water in small saucepan with 1 tsp olive oil\
-	2. Add 1/2 cup of cous cous and turn off the heat and cover\
+	1. boil $\frac{1}{2}$ cup of water in small saucepan with 1 tsp olive oil\
+	2. Add $\frac{1}{2}$ cup of cous cous and turn off the heat and cover\
 	3. Leave for 3 mins\
 	4. Stir some margarine or butter (or equivalent) through the cous cous with a fork.\
   Serve!
