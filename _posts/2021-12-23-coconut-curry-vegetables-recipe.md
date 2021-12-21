@@ -3,7 +3,7 @@ tags: recipes
 categories: recipes
 ---
 
-**Coconut curry vegetables**\
+**Coconut curry vegetables** \
 This is a delicious recipe I always enjoy, it happens to be vegetarian and could be easily be made vegan with using non-dairy margarine.
 
 _Ingredients_\
@@ -19,15 +19,15 @@ One tin of lentils, drained (400g)\
 
 Optional but recommended\
 Soy sauce (2 tsp)\
-Cous Cous ($\frac{1}{2}$cup)
+Cous Cous (Half cup)
 
 Extra possible spices I add\
 Cumin (1 tsp)\
 Coriander (2 tsp)\
-Turmeric (1tsp)\
+Turmeric (1 tsp)\
 Chives (2 tsp)\
-Ginger (1tsp)\
-Paprika (smoked or otherwise) (1tsp)\
+Ginger (1 tsp)\
+Paprika (smoked or otherwise) (1 tsp)\
 
 #### Method
 Coconut curry (serves 4)\
@@ -42,8 +42,8 @@ Coconut curry (serves 4)\
 
 
 Cous cous (serves one - scale up proportionally if there are more people, but if cooking for one its better to make a small amount each night than one large batch as it doesn't reheat well)\
-	1. boil $\frac{1}{2}$ cup of water in small saucepan with 1 tsp olive oil\
-	2. Add $\frac{1}{2}$ cup of cous cous and turn off the heat and cover\
+	1. boil half cup of water in small saucepan with 1 tsp olive oil\
+	2. Add half cup of cous cous and turn off the heat and cover\
 	3. Leave for 3 mins\
 	4. Stir some margarine or butter (or equivalent) through the cous cous with a fork.\
   Serve!
