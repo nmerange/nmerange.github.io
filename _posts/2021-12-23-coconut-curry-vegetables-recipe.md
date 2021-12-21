@@ -6,7 +6,7 @@ categories: recipes
 **Coconut curry vegetables**\
 This is a delicious recipe I always enjoy, it happens to be vegetarian and could be easily be made vegan with using non-dairy margarine.
 
-_ingredients_
+_Ingredients_\
 Lee Kum Kee's Coconut curry vegetable recipe base x2 (total 440g)\
 One small tin of coconut milk (95mL)\
 12 button Mushrooms or equivalent other type of mushroom in weight (approx 150g)\
