@@ -27,7 +27,7 @@ Coriander (2 tsp)\
 Turmeric (1 tsp)\
 Chives (2 tsp)\
 Ginger (1 tsp)\
-Paprika (smoked or otherwise) (1 tsp)\
+Paprika (smoked or otherwise) (1 tsp)
 
 #### Method
 Coconut curry (serves 4)\
