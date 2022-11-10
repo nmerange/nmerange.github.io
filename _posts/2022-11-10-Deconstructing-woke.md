@@ -1,5 +1,6 @@
 ---
 title: Deconstructing “Woke”
+toc: true
 tags: 
   - Analysis
   - Politics
