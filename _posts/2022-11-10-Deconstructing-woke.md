@@ -16,10 +16,10 @@ To return to what conservative critics of progessive complaints might mean, a wo
 It should be noted that these claims are based on the beliefs about what one _ought_ to be affected by psychologically, in the first case, and in the second case it is based off the concept of what possible alternatives there are.
 
 Here is how the full argument could be run:
-* 1. People claim these comments/ or this sponsorship deal (for example) hurts them as they are members of a social group 
-* * iia. It cannot be meaningful to have one's experience as membership of a social group affected based off comments/sponsorship alone OR
+* i. People claim these comments/ or this sponsorship deal (for example) hurts them as they are members of a social group 
+* iia. It cannot be meaningful to have one's experience as membership of a social group affected based off comments/sponsorship alone OR
 * iib. If it _does_ affect their experience, the problem is in the person's own psychological weakness than the comments themselves
-* 3. One ought not object to something that doesn't meaningfully affect their experience as a member of a social group, or one ought not to criticise other people's comments when the fault is really their own psychological weaknesses
+* iii. One ought not object to something that doesn't meaningfully affect their experience as a member of a social group, or one ought not to criticise other people's comments when the fault is really their own psychological weaknesses
 * Therefore, those who are affected by this are not justified in objecting to it
 
 I think two responses might be made to this, first that woke people aren't just concerned about the psychological impact that comments, sponsorships etc. make in terms of their conception of themself, but also that allowing such commnts/sponsorship to go unchallenged reproduces poor treatment of this group of which the peson is a member. Hence it would be harmful to the group as a whole to allow it to stand unchallenged.
