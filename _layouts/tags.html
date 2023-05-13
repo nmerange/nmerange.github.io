@@ -1,19 +1,4 @@
 ---
-<<<<<<< HEAD
-layout: default
-title: "Posts by Tag"
-author_profile: true
----
-
-<div class="snippets">
-  <h1 class="snippets-heading">Articles tagged with "{{ page.tag-name }}"</h1>
-  {% for post in site.posts %}
-    {% if post.tags contains page.tag-name %}
-      {{ post.title }}
-    {% endif %}
-  {% endfor %}
-</div>
-=======
 layout: archive
 ---
 
@@ -56,4 +41,3 @@ layout: archive
     {% endif %}
   {% endfor %}
 {% endfor %}
->>>>>>> 8a67ce8e41ec850f2d7c373aa47739b2abfee6f1
