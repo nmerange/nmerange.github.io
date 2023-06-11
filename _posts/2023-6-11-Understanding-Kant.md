@@ -4,7 +4,7 @@ tags:
   - epistemology
 ---
 
-## Trying to Understand Kant - Could there be such a thing is "Analytic _A priori_"?
+## Trying to Understand Kant - Could there be such a thing as "Analytic _A priori_"?
 
 In Kant's book "Critique of Pure Reason", he tried to outline the extent of possible human knowledge claims. One very interesting part of his work, though, distinguishes between _A priori_ knowledge and _A posteriori_ knowledge.
 
