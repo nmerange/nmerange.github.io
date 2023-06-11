@@ -12,7 +12,7 @@ So what does he mean by _A priori_ knowledge?
 
 My understanderstanding of Kant's definition of "A priori" knowledge is knowledge gained without the use of senses. (it doesn't need to be "Prior"to the senses, just that it would be feasible to know it without any refence to an external world. Whereas conversely, _A posteriori_ knowledge is knowledge that was gained through the senses, e.g.:
 
-Criteria|A Priori|A Posteriori
+O|A Priori|A Posteriori
 ---|---|---
 Analytic|True _by definition_, e.g. 1+1 = 2|X(can't exist)
 Synthetic|? -> Maybe things like 'time' exist| Evidence, e.g. scientific conclusions based off observations 
