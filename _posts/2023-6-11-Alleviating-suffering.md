@@ -1,0 +1,3 @@
+We struggle to spend time and energy on alleviating suffering of others because most of us are so focussed exclusively on our own problems or responsibilities, and have an acute sense of how hard we work to keep ourselves afloat. So it is that via the media, many politicians play off this factor and subtly (or obviously) shift blame for those who are suffering onto victims for their own suffering. This brings the ons who are slightly better off comfort, for now it removes it from any moral imperative for them to do anything about it.
+
+Furthermore, some politicians and commentators put labels upon those people who _do_ insist that we ought to do more to help these people who are really struggling, labelling them as "social signalling". 
