@@ -6,7 +6,7 @@ tags:
 
 ## Trying to Understand Kant - Could there be such a thing is "Analytic _A priori_"?
 
-In Kant's book Ä critique of pure reason, he tried to outline the extent of possible human knowledge claims. One very interesting part of his work, though, distinguishes between _A priori_ knowledge and _A posteriori_ knowledge.
+In Kant's book "Critique of Pure Reason", he tried to outline the extent of possible human knowledge claims. One very interesting part of his work, though, distinguishes between _A priori_ knowledge and _A posteriori_ knowledge.
 
 So what does he mean by _A priori_ knowledge?
 
@@ -14,7 +14,7 @@ My understanderstanding of Kant's definition of "A priori" knowledge is knowledg
 
 Criteria|A Priori|A Posteriori
 ---|---|---
-Analytic|True _by definition_, e.g. 1+1 = 2|X
+Analytic|True _by definition_, e.g. 1+1 = 2|X(can't exist)
 Synthetic|? -> Maybe things like 'time' exist| Evidence, e.g. scientific conclusions based off observations 
 
 Some questions remain though - is awareness of our own self-consciousness A priori, or A posteriori? Arguably it would be A priori, because self-awareness is arguably not a "sense". So if we have this ability for self-awareness and we agree it's _a priori_ knowledge, then it seems that along with this sense of self-awareness I would _also_ have this sense of 'time', which would bring new information. Hence it seems that I would be able to have synthetic, _a priori_ knowledge.
