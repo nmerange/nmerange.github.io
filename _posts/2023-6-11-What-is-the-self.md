@@ -1,6 +1,6 @@
 ---
-Title: "What is the self?"
-Tags:
+title: "What is 'The Self'?"
+tags:
   - Philosophy
   - Self
   - Being
