@@ -4,13 +4,13 @@ tags:
   - epistemology
 ---
 
-## Trying to Understand Kant - Could there be such a thing as "Analytic _A priori_"?
+## Trying to Understand Kant - Could there be such a thing as "Synthetic _A priori_"?
 
 In Kant's book "Critique of Pure Reason", he tried to outline the extent of possible human knowledge claims. One very interesting part of his work, though, distinguishes between _A priori_ knowledge and _A posteriori_ knowledge.
 
 So what does he mean by _A priori_ knowledge?
 
-My understanderstanding of Kant's definition of "A priori" knowledge is knowledge gained without the use of senses. (it doesn't need to be "Prior"to the senses, just that it would be feasible to know it without any refence to an external world. Whereas conversely, _A posteriori_ knowledge is knowledge that was gained through the senses, e.g.:
+My understanderstanding of Kant's definition of "A priori" knowledge, is knowledge gained without the use of senses. It doesn't need to be "Prior"to the senses, just that it would be feasible to know it without any refence to an external world. Whereas conversely, _A posteriori_ knowledge is knowledge that was gained through the senses, e.g.:
 
 O|A Priori|A Posteriori
 ---|---|---
@@ -23,4 +23,4 @@ That said, even if true, it still seems that most of the richnessd of the idea o
 
 In fact there are many instances where I do not appear to experience "time". For example, if I am present conducting an activity, I don't experience time itself. I am mainly experiencing the concept of time when I am looking to the future (The future is itself a time-based concept) and not there yet, or I am caught unprepared for something that needs to be done immediately or very soon - i.e. I feel I do not have enough time.
 
-It appears also if we were going to bring in Kant's distinction between "intuitions" and "concepts" then 'time' seems more like a concept than an intuition. As mentioned, there appears to be partly _a priori_. And it is not merely 'analytic' or merely only true by self-definition. Therefore it seems reasonable to conclude that there is such a thing as "synthetic _a priori_ knowledge", contrary to what most (physicalists) believe. At least in relation to time, though, as mentioned the _a priori_ concept of time seems pretty week, for example it doesn't seem that it could direct itself to any external objectsunless we bring in _a posteriori_ experiences, knowledge or information. For instance the concept of "causation"rarely becomes interesting unless it encompasses actions and reactions in the world. Causation seems also to be something that can be assumed _a priori_, because, as per Hume, we never see the moment when thing A becomes thing B. We see the constant conjunction between events, but then in our mind we make the link of the necessary connection between the two
+It appears also if we were going to bring in Kant's distinction between "intuitions" and "concepts" then 'time' seems more like a concept than an intuition. As mentioned, there appears to be partly _a priori_. And it is not merely 'analytic' or merely only true by self-definition. Therefore it seems reasonable to conclude that there is such a thing as "synthetic _a priori_ knowledge", contrary to what most (physicalists) believe. At least in relation to time, though, as mentioned the _a priori_ concept of time seems pretty week, for example it doesn't seem that it could direct itself to any external objectsunless we bring in _a posteriori_ experiences, knowledge or information. For instance the concept of "causation"rarely becomes interesting unless it encompasses actions and reactions in the world. Causation seems also to be something that can be assumed _a priori_, because, as per Hume, we never see the moment when thing A becomes thing B. We see the constant conjunction between events, but then in our mind we make the link of the necessary connection between the two.
