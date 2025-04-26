@@ -182,5 +182,5 @@ David: Mentioned the "Declaration from Biology" of Harari (A biologically transl
  Jack and Ryan had a couple more comments here but they weren't rcorded.
 
 ***
- I would say that there are a lot of things that we take for granted which are important to conserve - a general respect and care for people around us, our respect for democratic and liberal institutions (e.g. rule of law, of voting procedures, the ability to countenance a range of perspectives), ven if they aren't always perfect, a general view of non-judgement and non-interference of personal actions that don't harm others, a robust education system, and a decent welfare state
+ I would say that there are a lot of things that we take for granted which are important to conserve - a general respect and care for people around us, our respect for democratic and liberal institutions (e.g. rule of law, of voting procedures, the ability to countenance a range of perspectives) even if they aren't always perfect, a general view of non-judgement and non-interference of personal actions that don't harm others, a robust education system, and a decent welfare state
 
