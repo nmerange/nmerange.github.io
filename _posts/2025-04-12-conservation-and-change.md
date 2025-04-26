@@ -1,5 +1,5 @@
 ---
-tags: Philosophy, Politics, society
+tags: Philosophy, Politics, Society
 Category: Philosophy
 ---
 
