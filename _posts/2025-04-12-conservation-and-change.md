@@ -3,9 +3,9 @@
 A record of the meeting of the Socrates Cafe, held 12 April 2025
 
 People in attendance:
--Me
--David (Australia)
--Ryan (UK)
+- Me
+- David (Australia)
+- Ryan (UK)
 - Marine (Japan)
 - Ryan (Canada)
 - Jack (Australia)
