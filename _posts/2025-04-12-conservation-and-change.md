@@ -1,6 +1,11 @@
+---
+tags: Philosophy, Politics, society
+Category: Philosophy
+---
+
 ## When do we need to conserve knowledge/things, and when do  things need to change? ##
 
-A record of the meeting of the Socrates Cafe, held 12 April 2025
+A record of the meeting of the Socrates Cafe, held 12 April 2025 to discuss the above question.
 
 People in attendance:
 - Me
@@ -12,7 +17,7 @@ People in attendance:
 - Glen (Australia)
 - Merry (Japan)
 
-Please note that this is just the notes I took from the meetup, I didn't record my own contributions and in recording the contributions of others I may have missed or misunderstood some of their points. If I have used square brackets [for example], it is to provide commentary on what was written down, which may be my views of what was said or to clarify for the reader that there may have been something else that was missed .
+Please note that this is just the notes I took from the meetup, I didn't record my own contributions and in recording the contributions of others I may have missed or misunderstood some of their points. If I have used square brackets [for example], it is to provide commentary on what was written down, which may be my views of what was said or to clarify for the reader that there may have been something else that was missed.
 
 What are some Japanese Philosophers?
 Senno Rikio [not sure of spelling]
