@@ -41,13 +41,14 @@ In fact Deng Xiaopeng mentioned the process as "feeling the rocks on the way thr
 
 
 Jack:
-We need to have one eye on the past, one eye on the future, one eye on the future. The key is to retain what we know, and also know what we don't know.
+We need to have one eye on the past and one eye on the future. The key is to retain what we know, and also know what we don't know.
 
+### On the Necessity of change
 
 Ryan  (UK)
 Change is inevitable
 
-The individual human is symbolic of civilisation -> (Just as when you're young you don't know much, in earlier times we didn't know much
+The individual human is symbolic of civilisation -> (Just as when you're young you don't know much, in earlier times we didn't know much)
 
 
 Jack:
@@ -68,11 +69,11 @@ To do this we need to understand change management, evidence, and understanding.
 
 We should also redefine the outcome we want and all agree to it. E.g. we could aim at "[Gross National Happiness]" as the ultimate outcome. We should think of it as "Rocks" as cornerstone of things to conserve
 
-Mentioned the [Rejectionist] work of David Bereta.
+Mentioned the Rejectionist work of David Bereta[sp?].[I couldn't find any thinker with that name who was identified as "rejectionist". Someone please let me know who this is!]. Rejectionism appears to be the belief that groups themselves cannot have beliefs - "According to rejectionists, although groups can accept propositions, they cannot believe them" [[https://philpapers.org/rec/TOLRR]] 
 
 When we look at society now, we shouldn't compare it to previous societies, but to *all possible situations* - not just different historic periods.
 
-MEasurements of Happiness:
+Measurements of Happiness:
 - When we look into happiness, we can ask "Is it possible to be happy?", and we will findd it isn't, so then we can do the long work of "What's next?"
 
 However, this won't happen, because with humans'tribal background, it is built toward conflict
@@ -102,11 +103,11 @@ Jack:
 Retaining knowledge is difficult, and an art in itself [My thought was about librarians as storers of knowledge, and thinking about the destructions of various great libraries in Alexandria, Damascus and Baghdad that meant so many great tracts were lost]
 
 Nick:
-The American constitution is a good example of a collective fiction that was created
+The American constitution is a good example of a collective fiction that was created, and it _admitted_ that it was created (rather than revealed by god)
 
 Animism [?]
 Jack:
-That is a good example, of the tension between preservation/change.
+The american constitution is a good example, of the tension between preservation/change, see the fierce debates over the "Right to Bear Arms".
 
 conssomething that is created
 
@@ -118,6 +119,8 @@ Transcendence [May be raised as conservation requires I concept of self-transcen
 Harari has the idea that "Culture is a parasite", and we spread it amongst each other. This cultural difference for example is seen in the way Chinese explorers didn't seek to impose their ideas on the American Continent to the peoples there, whereas the Europeans did.
 
 There is a question about how society progresses now with such a high level of cultural heterogeneity, [My thoughts: Seems to suggest there is little important in common between cultures, or the differences are too great/irreconcilable/lead to conflicting actions]
+
+### AI as a major source of change
 
 Glen:
 Brings in the idea of AI. With this, we have 3 years until AGI, and about 10 years until superintelligence (AI able to improve itself), and how do we cope with that [in the context of conserving things]?
@@ -134,7 +137,9 @@ Merry: This situation is different, as we don't have time to update adjust/ very
 In the past, in terms of conserving knowledge and achieving happiness, God *was* happiness, now we don't have that. We have to find a new foundation for happiness. [she may have mntioned something else we have but I didn't write it down. Here I might have gone on a mini-rant about hedonism and consumerism]
 
 Marin:
-It's now easy to get a lot of info <- ([[Harari]] talks about this in *Nexus*,  and argues (as many have) is that the issue is that there is too much information but the difficulty is in terms of storage and retrieval of information, or searching for *useful* information that can be crystallised into knowledge or from which we can derive meaning). As a teacher students use ChatGPT. She gave the example that when she asked about experiments on animals, most students agreed that was justified. Then they were shown the image of a mouse who had been genetically modified to have a human hear on its back, and then most students then disapproved  of using animals for scientific experiments. It shows that we can't know everything [even with all the *potential* information at our fingertips], and our opinions depend on the knowledge or information we have. It's now easy to get a lot of information, but we have to step back.
+It's now easy to get a lot of info <- ([[Harari]] talks about this in *Nexus*,  and argues (as many have) is that the issue is that there is too much information, which creates difficulties in terms of storage and retrieval of information, or searching for *useful* information that can be crystallised into knowledge or from which we can derive meaning). 
+
+She mentions that, as a teacher, she sees how students use ChatGPT. She gave the example that when she asked about experiments on animals, most students agreed that was justified. Then they were shown the image of a mouse who had been genetically modified to have a human hear on its back, and then most students then disapproved  of using animals for scientific experiments. It shows that we can't know everything [even with all the *potential* information at our fingertips], and our opinions depend on the knowledge or information we have. It's now easy to get a lot of information, but we have to step back.
 
 Ryan (Canada):
 There's always an emotional element to human stories.
@@ -162,6 +167,7 @@ Nick: Yes, if I want to converse or look at art, what I'm interested in is that 
 
 
 ### Back to topic - what should we conserve:
+I asked the question :"What ought we try and conserve"?
 
 David: Looks at long-established scientific evidence [i.e. statements and theories scientific evidence is something we should conserve], simple  things we can rely on (what he cals "postcard philosophy" - philosophical views that can fit on a postcard), and humans should study what matters. We should study happiness, realise it's not possible, and come up with the concept of *eudaimonia*/fulfilment
 
@@ -169,11 +175,12 @@ Glen: Happiness measurements are pretty poor
 
 Jack: Words are so imprecise. Art is good for emotional expression
 
-Nick: Happiness is found accidentally in the pursuit of other things. (as per J.S. Mill)
-
 Ryan (UK): Contentment is the climate, happiness is the weather. We can't really be happy all the times but we may be generally content.
 
 David: Mentioned the "Declaration from Biology" of Harari (A biologically translated version of The Declaration of Independence)
 
  Jack and Ryan had a couple more comments here but they weren't rcorded.
+
+***
+ I would say that there are a lot of things that we take for granted which are important to conserve - a general respect and care for people around us, our respect for democratic and liberal institutions (e.g. rule of law, of voting procedures, the ability to countenance a range of perspectives), ven if they aren't always perfect, a general view of non-judgement and non-interference of personal actions that don't harm others, a robust education system, and a decent welfare state
 
